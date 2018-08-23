@@ -1,0 +1,10 @@
+What is #include <stdio.h>?
+it is used to read input and output
+What is printf? ( Write 20 questions on printf and answer them.)
+it is used to print int,char,float,octal,hexadecimal
+What is main? 
+it is a function it takes no arguments
+Why should you learn touch typing on a qwerty keyboard?
+inorder to do programming faster
+How will you learn touch typing on a qwerty keyboard?
+by practicing daily on qwerty keybord
