@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+  char[]="somashekhar";
+  printf("name is %s.\n",name);
+  return 0;
+}  
